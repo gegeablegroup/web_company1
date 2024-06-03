@@ -1,17 +1,6 @@
-# Web_profile1
+# Web Company 1
+### Web Company 1 is a Next JS.
 
-Application built using the new router, server components and everything new in Next.js 13.
-
-## Running Locally
-
-1. Install dependencies using pnpm:
-
-```sh
-pnpm install
-```
-
-2. Start the development server:
-
-```sh
-pnpm dev
-```
+1. npm install
+2. npm run dev
+<br/>
