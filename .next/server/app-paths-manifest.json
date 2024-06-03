@@ -1,0 +1,7 @@
+{
+  "/(marketing)/page": "app/(marketing)/page.js",
+  "/(marketing)/pricing/page": "app/(marketing)/pricing/page.js",
+  "/(marketing)/blog/page": "app/(marketing)/blog/page.js",
+  "/(marketing)/blog/[...slug]/page": "app/(marketing)/blog/[...slug]/page.js",
+  "/(docs)/docs/[[...slug]]/page": "app/(docs)/docs/[[...slug]]/page.js"
+}
